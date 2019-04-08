@@ -1,7 +1,7 @@
 FROM ubuntu:16.04
 
 
-MAINTAINER Sebastien Guissart "sguissart@dataswati.com"
+
 
 
 RUN apt -y update &&\
